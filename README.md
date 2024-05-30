@@ -1,5 +1,4 @@
-# Library Management System
-
+# PyLibraryManager
 This is a simple Python program to manage a library. It allows you to add books and display information about the books in the library.
 
 ## Features
