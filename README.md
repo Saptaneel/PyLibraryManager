@@ -14,7 +14,11 @@ library = Library()
 
 # Add books
 library.addBook("Harry Potter1")
+
+
 library.addBook("Harry Potter2")
+
+
 library.addBook("Harry Potter3")
 
 # Show library information
